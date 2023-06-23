@@ -340,4 +340,7 @@ footer{
     .nav-res{
         display: none;
     }
+    .hero-msg{
+    height: 50px;
+}
 }
